@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "0": 13905,
+    "1": 13905
+  },
+  "class_names": [
+    "benign",
+    "malignant"
+  ]
+}
