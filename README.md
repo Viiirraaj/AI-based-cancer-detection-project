@@ -172,6 +172,7 @@ This project is released under the **MIT License**.
 📍 Thane, Maharashtra, India  
 🎓 Master’s in Computer Science – Ramnarain Ruia College  
 📧 [virajshinde911@gmail.com](mailto:virajshinde911@gmail.com)  
+Just email me if u want the model data and the best_model.pt file
 
 ---
 
